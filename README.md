@@ -45,14 +45,6 @@ Core focus: application security and vulnerability assessment. Active in bug bou
 
 Hikvision certs valid until 2031. PDFs on my [portfolio](https://github.com/Andhyna/Demas-Darrel-Portofolio).
 
-## Research
-
-Bugcrowd researcher. 7 submissions accepted. 1 finding confirmed and fixed, September 2026.
-
-- Type: unauthenticated API exposure
-- Reporter-estimated CVSS 7.5 High, CWE-200 / CWE-552, no CVE
-- Target and details withheld per disclosure policy
-
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Andhyna&show_icons=true&theme=dark&hide_border=true&bg_color=070907&title_color=4ADE80&icon_color=4ADE80&text_color=E9F1EA)
