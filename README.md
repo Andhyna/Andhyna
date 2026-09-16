@@ -45,9 +45,6 @@ Core focus: application security and vulnerability assessment. Active in bug bou
 
 Hikvision certs valid until 2031. PDFs on my [portfolio](https://github.com/Andhyna/Demas-Darrel-Portofolio).
 
-## Stats
-![Streak](https://streak-stats.demolab.com?user=Andhyna&theme=dark&hide_border=true&background=070907&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)
-
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4ADE80?style=flat&logo=google-chrome&logoColor=070907)](https://github.com/Andhyna/Demas-Darrel-Portofolio)
