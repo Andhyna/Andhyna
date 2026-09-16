@@ -43,7 +43,7 @@ Core focus: application security and vulnerability assessment. Active in bug bou
 | HCSA-HACE (Hikvision) | HCSA-092026-0062-11-1347 |
 | Introduction to Cybersecurity (Cisco) | 64955ff1-16a8-4463-94ce-cb643f461e6d |
 
-Hikvision certs valid until 2031. PDFs on my [portfolio](https://darreldevv.vercel.app).
+Hikvision certs valid until 2031. PDFs on my [portfolio](https://darreldev.vercel.app).
 
 ## Contact
 
