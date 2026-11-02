@@ -33,18 +33,6 @@ Core focus: application security and vulnerability assessment. Active in bug bou
 ![SQLMap](https://img.shields.io/badge/SQLMap-070907?style=flat&logoColor=4ADE80)
 ![Wireshark](https://img.shields.io/badge/Wireshark-070907?style=flat&logo=wireshark&logoColor=4ADE80)
 
-## Certifications
-
-| Title | ID |
-| --- | --- |
-| CGSA-CCTV (Hikvision) | CGSA-092026-0062-11-1084 |
-| HCSA-HNET (Hikvision) | HCSA-092026-0062-11-1348 |
-| HCSA-HIPC (Hikvision) | HCSA-092026-0062-11-1349 |
-| HCSA-HACE (Hikvision) | HCSA-092026-0062-11-1347 |
-| Introduction to Cybersecurity (Cisco) | 64955ff1-16a8-4463-94ce-cb643f461e6d |
-
-My [portfolio](https://darreldev.vercel.app).
-
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4ADE80?style=flat&logo=google-chrome&logoColor=070907)](https://github.com/Andhyna/Demas-Darrel-Portofolio)
